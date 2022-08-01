@@ -1,4 +1,4 @@
-## LetsLearnGit
+## GitUpstream      
 
 Added new files : 
 - sum.c
