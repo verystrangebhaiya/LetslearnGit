@@ -1,5 +1,8 @@
 ## LetsLearnGit
 
 Added new files : 
-                  - sum.c
-                  - diff.c
+- sum.c
+- diff.c
+- multiply.c
+- divide.c
+                
